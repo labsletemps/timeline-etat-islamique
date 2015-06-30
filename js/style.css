@@ -1,0 +1,13 @@
+h1 {
+    font-size:30px;
+	line-height: 1.55
+	font-family:georgia;
+	margin:0 20px 0 20px;
+  }
+p {
+    font-size:15px;
+	font-family:georgia;
+	margin:0 20px 0 20px;
+	line-height: 1.50;
+color: #222;
+  }

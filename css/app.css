@@ -1,0 +1,117 @@
+
+
+nav {
+	background: white;
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.7);
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	line-height: 40px;
+	vertical-align: middle;
+	font-family: verdana;
+	padding-left: 10px;
+	z-index: 999;
+
+}
+
+@media ( max-device-width : 800px) {
+	nav {
+		position: relative;
+		text-align: center;
+		margin-bottom: 8px;
+	}
+}
+
+nav a {
+	text-decoration: none;
+	border: none;
+}
+
+nav .logo {
+	height: 20px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 19px;
+	border: 0px dotted #fff;
+}
+
+@media ( max-device-width : 800px) {
+	nav .logo {
+		float: none;
+		display: block;
+		margin: 4px auto;
+	}
+}
+
+nav #bonw-title {
+	font-weight: none;
+	color: #000;
+	text-transform: uppercase;
+	margin-right: 10px;
+}
+
+nav .company-ranking {
+	text-transform: uppercase;
+	margin-right: 1em;
+	font-size: 13px;
+}
+
+@media ( max-device-width : 800px) {
+	nav .company-ranking {
+		display: none;
+	}
+}
+
+nav .company-ranking a {
+	color: #555555;
+	text-decoration: none;
+	padding: 0 4px;
+	font-size: 11px;
+}
+
+nav .company-ranking a:hover {
+	background: #EEE;
+}
+
+nav sup {
+	font-size: 60%;
+}
+
+nav ul {
+	padding: 0;
+	margin: 0;
+	display: inline;
+}
+
+nav ul li {
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+}
+/* special sections */
+#chart {
+	background: white;
+	color: black;
+}
+/* old/mobile */
+img.fallback {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -9;
+	max-width: 100%;
+}
+
+@media ( max-device-width : 800px) {
+	img.fallback {
+		position: relative;
+	}
+}
+
+.share-button {
+	position: absolute;
+	top: 10px;
+	right: 35px;
+	line-height: normal;
+}
