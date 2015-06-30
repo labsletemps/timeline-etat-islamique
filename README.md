@@ -10,7 +10,7 @@ Voir le projet : http://labs.letemps.ch/interactive/2015/etat-islamique-histoire
 Timeline. Il y a un an, un groupe djihadiste proclamait le califat sur un territoire à cheval entre Irak et Syrie. Depuis, l'Etat islamique a essaimé dans une douzaine de pays, en remplaçant Al-Qaida comme l'ennemi public numéro 1.
 Pour comprendre cet enracinement, il faut pourtant remonter plus loin, jusqu'en 2006.
 
-- Le projet s'appuie sur code dévéloppé par l'équipe de LibéData (adapté avec leur autorisation) 
+- Le projet s'appuie sur code développé par l'équipe de LibéData (adapté avec leur autorisation) 
 
 
 
